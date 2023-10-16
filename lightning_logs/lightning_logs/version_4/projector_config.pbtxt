@@ -1,0 +1,20 @@
+embeddings {
+  tensor_name: "day_of_week:00222"
+  metadata_path: "00222/day_of_week\\metadata.tsv"
+  tensor_path: "00222/day_of_week\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "month:00222"
+  metadata_path: "00222/month\\metadata.tsv"
+  tensor_path: "00222/month\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Year:00222"
+  metadata_path: "00222/Year\\metadata.tsv"
+  tensor_path: "00222/Year\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Quarter:00222"
+  metadata_path: "00222/Quarter\\metadata.tsv"
+  tensor_path: "00222/Quarter\\tensors.tsv"
+}
